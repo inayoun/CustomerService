@@ -1,5 +1,5 @@
 # CustomerService
-This project models a group of customers and a service-counter for a 9-5 work shift.
+This project utilizes object oriented programming to model a group of customers and a service-counter for a 9-5 work shift.
 The expected input is two text files: 
 1. customers text file containing the customer number and arrival time for each, along with a constant service time per customer.
 2. query file containing the information wanted.\
